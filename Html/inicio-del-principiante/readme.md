@@ -1,0 +1,1 @@
+mis principios en fronted
