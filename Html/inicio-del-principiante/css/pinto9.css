@@ -1,0 +1,18 @@
+.nombre {
+    width: 150px;
+    height: 20px;
+    background-color: aqua;
+}
+.contraseña {
+    width: 150px;
+    height: 20px;
+    background-color: aquamarine;
+}
+.envio {
+    width: 100px;
+    height: 25px;
+    background-color: azure;
+}
+body {
+    background-color:cadetblue;
+}
