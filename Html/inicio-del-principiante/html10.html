@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pinto10.css">
+    <title>Primer_registro</title>
+</head>
+<body>
+    <h1>Registrate</h1>
+    <hr class="linea">
+    <form action="http://127.0.0.1:8000/registro" method="post">
+        <label for="nombre">Ingresa tu nombre:</label>
+        <br>
+        <input type="text" class="nombre_pinta" name="usuario_nombre" id="nombre" placeholder="ejem:pepito">
+        <br>
+        <label for="contraseña">ingresa tu contraseña:</label>
+        <br>
+        <input type="password" class="contraseña_pinta" placeholder="ejem:pepe123" id="contraseña" name="usuario_contraseña">
+        <br>
+        <br>
+        <button type="submit" class="boton_pinta">Enviar</button>
+    </form>    
+</body>
+</html>
