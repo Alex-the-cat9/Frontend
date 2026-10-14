@@ -1,0 +1,24 @@
+.nombre_pinta {
+    width: 150px;
+    height: 20px;
+    color: black;
+    background-color: white;
+}
+.contraseña_pinta {
+    width: 150px;
+    height: 20px;
+    background-color: white;
+    color: black;
+}
+.boton_pinta {
+    color: black;
+    background-color: white;
+    width: 100px;
+    height: 25px;
+}
+body {
+    background-color: antiquewhite;
+}
+.linea {
+    border-color: black;
+}
