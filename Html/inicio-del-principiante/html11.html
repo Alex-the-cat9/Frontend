@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>comentarios</title>
+</head>
+<body>
+    <form action="http://127.0.0.1:8000/register" method="post">
+        <label for="nombre"></label>nombre:<br>
+        <input type="text" name="nombre_usuario" id="nombre" placeholder="ejem:alex" required>
+        <br>
+        <label for="contraseña"></label>contraseña:<br>
+        <input type="text" name="contraseña_usuario" id="contraseña" placeholder="ejem:23251" required>
+        <br>
+        <br>
+        <label for="comentario">Comentario (opcional):</label><br>
+        <textarea name="comentario" id="conmentario" cols="30" rows="5" placeholder="ejem:comentario"></textarea>
+        <br>
+        <button type="submit">Enviar</button>
+    </form>
+    
+</body>
+</html>
