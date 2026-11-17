@@ -1,0 +1,1 @@
+aqui se aprendera un segundo lenguaje de logica pura javascript para miq ue funciona casi igual que python con node.js pero tambien en las consolas de los navegadores puedes ejecutar tu codigo
