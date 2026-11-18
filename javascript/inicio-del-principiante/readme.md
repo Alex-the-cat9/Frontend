@@ -1,0 +1,1 @@
+aprender la sintaxis que es casi parecida al de python
