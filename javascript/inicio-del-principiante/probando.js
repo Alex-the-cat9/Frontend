@@ -10,4 +10,4 @@ function dar_contraseña() {
     console.log("Despues de hacer una criptografia creada por mi tu contraseña es:");
     console.log(contraseña2);
 };
-dar_contraseña();
+dar_contraseña(); 
